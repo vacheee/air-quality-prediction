@@ -60,5 +60,5 @@ jupyter notebook notebook.ipynb
 
 ## Authors
 
-**Valentin Cherin** — [GitHub](https://github.com/votre-profil)
+**Valentin Cherin** — [GitHub](https://github.com/vacheee)
 **Elhabib Touisse** — [GitHub](https://github.com/elhabib-touisse)
